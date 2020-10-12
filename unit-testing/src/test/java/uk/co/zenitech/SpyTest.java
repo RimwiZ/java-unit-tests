@@ -34,7 +34,6 @@ public class SpyTest {
 
     @Test
     void givenNotMockedRepositoryMethod_whenFindingArtist_thenThrowException() {
-        artistService.find(ARTIST_NAME);
         Assertions.assertThrows(RuntimeException.class, () -> artistService.find(ARTIST_NAME));
     }
 
