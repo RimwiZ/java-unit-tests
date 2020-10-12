@@ -6,14 +6,6 @@ This project contains examples and training material regarding Java unit testing
 
 - **core**: business objects
 
-- **mutation-testing**: example of mutational testing
-
-- **parallel-testing**: example of parallel testing
-
-- **property-testing**: example of property testing
-
-- **spring-unit-testing**: example of Spring unit testing
-
 - **unit-testing**: general examples of unit testing tools and techniques
 
 ### Execution:
