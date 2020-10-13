@@ -23,3 +23,6 @@ This project contains examples and training material regarding Java unit testing
  - Hamcrest
  - AssertJ
  - JaCoCo
+
+
+Link to presentation recording at 👉 https://youtu.be/Yi0dqrbEVRs
